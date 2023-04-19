@@ -1,0 +1,24 @@
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.info {
+    text-align: center;
+}
+h2 {
+    background-color: #E637BF;
+    color: #D2F1E4;
+
+}
+
+h3 {
+    background-color: #D2F1E4;
+    color: #E637BF;
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
